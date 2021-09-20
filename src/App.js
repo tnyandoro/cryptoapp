@@ -5,7 +5,12 @@ import { Layout, Typography, Space } from 'antd';
 const App = () => {
   return (
     <div className="app">
-      
+      <div className="navbar">
+
+      </div>
+      <div className="main">
+
+      </div>
     </div>
   )
 }
