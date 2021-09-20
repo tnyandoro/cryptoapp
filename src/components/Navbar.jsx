@@ -12,7 +12,12 @@ const Navbar = () => {
     <div className="nav-container">
       <div className="logo-contaier">
         <Avatar />
-        <Typography.Title level={2} className="logo"></Typography.Title>
+        <Typography.Title level={2} className="logo">
+          <Link to="/"> Radical Crypto</Link>
+        </Typography.Title>
+        <Button className="menu-control-contaiber">
+          
+        </Button>
       </div>
       
     </div>
