@@ -11,6 +11,9 @@ const App = () => {
       <div className="main">
 
       </div>
+      <div className="footer">
+        
+      </div>
     </div>
   )
 }
