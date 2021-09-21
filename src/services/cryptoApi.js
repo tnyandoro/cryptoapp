@@ -1,3 +1,5 @@
+import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query';
+
 // const options = {
 //   method: 'GET',
 //   url: 'https://coinranking1.p.rapidapi.com/exchanges',
