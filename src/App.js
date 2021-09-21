@@ -34,19 +34,20 @@ const App = () => (
           </Switch>
         </div>
       </Layout>
+      <div className="footer">
+        <Typography.Title level={5} style={{ color: 'white', textAlign: 'center' }}>
+          Cryptoradical
+          {' '}
+          <br />
+          All Rights reserved
+        </Typography.Title>
+        <Space>
+          <Link to="/">Home</Link>
+          <Link to="/exchanges">Exchanges</Link>
+          <Link to="/news">News</Link>
+        </Space>
+      </div>
     </div>
-    <div className="footer" />
-    <Typography.Title level={5} style={{ color: 'white', textAlign: 'center' }}>
-      Cryptoradical
-      {' '}
-      <br />
-      All Rights reserved
-    </Typography.Title>
-    <Space>
-      <Link to="/">Home</Link>
-      <Link to="/">Home</Link>
-      <Link to="/">Home</Link>
-    </Space>
   </div>
 );
 
