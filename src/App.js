@@ -5,16 +5,33 @@ import { Layout, Typography, Space } from 'antd';
 import { Navbar } from './components';
 import './App.css';
 
-const App = () => {
-        return (
-        <div className="app">
-          <div className="navbar">
-            <Navbar />
-          </div>
-          <div className="main" />
-          <div className="footer" />
+const App = () => (
+  <div className="app">
+    <div className="navbar">
+      <Navbar />
+    </div>
+    <div className="main">
+      <Layout>
+        <div className="routes">
+          <Switch>
+            <Route exact path="/">
+              <Homepage />
+            </Route>
+             <Route exact path="/">
+              <Homepage />
+            </Route>
+             <Route exact path="/">
+              <Homepage />
+            </Route>
+             <Route exact path="/">
+              <Homepage />
+            </Route>
+          </Switch>
         </div>
-      ); 
-      }
+      </Layout>
+    </div>
+    <div className="footer" />
+  </div>
+);
 
 export default App;

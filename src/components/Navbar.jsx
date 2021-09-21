@@ -28,10 +28,10 @@ const Navbar = () => (
         <Link to="/cryptoCurrencies">CryptoCurrencies</Link>
       </Menu.Item>
       <Menu.Item icon={<MoneyCollectOutlined />}>
-        <Link to="/">Home</Link>
+        <Link to="/exchanges">Exchanges</Link>
       </Menu.Item>
-      <Menu.Item icon={<homeOutlined />}>
-        <Link to="/">Home</Link>
+      <Menu.Item icon={<BulbOutlined />}>
+        <Link to="/news">News</Link>
       </Menu.Item>
     </Menu>
 
