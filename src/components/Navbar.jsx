@@ -20,6 +20,20 @@ const Navbar = () => (
         <Link to="/"> Radical Crypto</Link>
       </Typography.Title>
     </div>
+    <Menu theme="dark">
+      <Menu.Item icon={<HomeOutlined />}>
+        <Link to="/">Home</Link>
+      </Menu.Item>
+      <Menu.Item icon={<FundOutlined />}>
+        <Link to="/cryptoCurrencies">CryptoCurrencies</Link>
+      </Menu.Item>
+      <Menu.Item icon={<MoneyCollectOutlined />}>
+        <Link to="/">Home</Link>
+      </Menu.Item>
+      <Menu.Item icon={<homeOutlined />}>
+        <Link to="/">Home</Link>
+      </Menu.Item>
+    </Menu>
 
   </div>
 );
