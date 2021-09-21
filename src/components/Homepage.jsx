@@ -14,7 +14,11 @@ const Homepage = () => (
     <Row>
       <Col span={12}>
         {' '}
-        <Statistic />
+        <Statistic title="Total Cryptocurrencies" value="5" />
+        <Statistic title="Total Exchange" value="5" />
+        <Statistic title="Total Market Cap" value="5" />
+        <Statistic title="Total 24h volume" value="5" />
+        <Statistic title="Total Markets" value="5" />
       </Col>
     </Row>
   </>
