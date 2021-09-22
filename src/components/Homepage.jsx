@@ -5,6 +5,8 @@ import {
 } from 'antd';
 import { Link } from 'react-router-dom';
 
+import { useGetCryptoQuery } from '../services/cryptoApi';
+
 const { Title } = Typography;
 const Homepage = () => (
   <>
