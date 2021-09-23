@@ -1,5 +1,10 @@
+/* eslint-disable react/prop-types */
+/* eslint-disable react/jsx-key */
+/* eslint-disable max-len */
 import React, { useState } from 'react';
-import { Select, Typography, Row, Col, Avatar, Card } from 'antd';
+import {
+  Select, Typography, Row, Col, Avatar, Card,
+} from 'antd';
 import moment from 'moment';
 
 import { useGetCryptosQuery } from '../services/cryptoApi';
