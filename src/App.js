@@ -38,7 +38,7 @@ const App = () => (
         <Typography.Title level={5} style={{ color: 'white', textAlign: 'center' }}>
           Copyright © 2021
           <Link to="/">
-            Cryptoverse Inc.
+            Radical Crypto Inc.
           </Link>
           {' '}
           <br />

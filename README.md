@@ -1,71 +1,152 @@
-# Getting Started with Create React App
+# React and Redux
+# COVID-19-TRACKING-PROJECT
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+> This React capstone project is about building a mobile web application to check a list of metrics (numeric values) that i created making use of React and Redux..
 
-In the project directory, you can run:
+### Screenshots
 
-### `yarn start`
+|Main Project page
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+|![COVID-19-TRACKING-PROJECT](https://user-images.githubusercontent.com/30318155/133608553-e2c7ad1b-0a9b-4195-a723-8834fb4f3df1.png)|
+|![COVID-19-TRACKING-PROJECT](https://user-images.githubusercontent.com/30318155/133609015-fde48e6e-1b4c-46c6-b1ca-acc0fa6daf8a.png)|
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Built With
 
-### `yarn test`
+- HTML5
+- CSS3
+- Bootstrap
+- Font Awesome
+- JavaScript-
+- COVID-19 API
+- React-Bootstrap
+- React-Region-Country
+- Jest Test
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Our Project
 
-### `yarn build`
+This project is found on the following Repo [COVID-19-TRACKING-PROJECT](https://github.com/tnyandoro/COVID-19-TRACKING-PROJECT/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Live Demo
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+You can view the live demo of the project [Here!](https://614255540bbc8400e31a7e9a--jolly-tereshkova-efa063.netlify.app/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Prerequisites
 
-### `yarn eject`
+A Morden Browser
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Setup
+- Go to [https://github.com/tnyandoro/COVID-19-TRACKING-PROJECT]
+- Clone the project to your local machine
+- Cd into your directory
+- Run npm install
+- Type: npm run build
+- Run npm start
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Setup
+- To Test npm install jest and run npm test
+## Authors
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+👤 **Tendai Nyandoro**
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- GitHub: [@Tendai Nyandoro](https://github.com/tnyandoro)
+- Twitter: [@tendainyandoro](https://twitter.com/tendainyandoro)
+- LinkedIn: [Tendai Nyandoro](https://www.linkedin.com/in/tendai-nyandoro/)
 
-## Learn More
+## 🤝 Contributing
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Contributions, issues and feature requests are welcome!
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Feel free to check the [issues page](https://github.com/tnyandoro/restaurant-page-webpack/issues).
 
-### Code Splitting
+## Show your support
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Give a ⭐️ if you like this project!
 
-### Analyzing the Bundle Size
+## Acknowledgments
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- This project was inspired by the [Microverse](https://www.microverse.org/) for the  program
+- Thanks to [The mmediagroup](https://covid-api.mmediagroup.fr//)
+- Thanks to [Font Awesome](https://fontawesome.com/)
+- Thanks to [ Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio/) for the original design
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 📝 License
 
-### Advanced Configuration
+MIT License
+# React and Redux
+# COVID-19-TRACKING-PROJECT
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+> This React capstone project is about building a mobile web application to check a list of metrics (numeric values) that i created making use of React and Redux..
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### Screenshots
 
-### `yarn build` fails to minify
+|Main Project page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# cryptoapp
+|![CRYPTO CURRENCY AND TRADING APP](https://user-images.githubusercontent.com/30318155/134501775-db200d43-5c72-484f-ad8b-b0b31049ff8b.png)|
+|![COVID-19-TRACKING-PROJECT](https://user-images.githubusercontent.com/30318155/134502009-29ea2eaf-3b28-4564-b93f-d6d8a4ec6d3d.png)|
+
+## Built With
+
+- HTML5
+- CSS3
+- Bootstrap
+- Font Awesome
+- JavaScript-
+- RAPID API
+- React-Bootstrap
+- React-Region-Country
+- Jest Test
+
+## Our Project
+
+This project is found on the following Repo [CRYPTO APP](https://github.com/tnyandoro/cryptoapp/)
+
+## Live Demo
+
+You can view the live demo of the project [Here!](https://614255540bbc8400e31a7e9a--jolly-tereshkova-efa063.netlify.app/)
+
+### Prerequisites
+
+A Morden Browser
+
+### Setup
+- Go to [https://github.com/tnyandoro/cryptoapp]
+- Clone the project to your local machine
+- Cd into your directory
+- Run npm install
+- Type: npm run build
+- Run npm start
+
+### Setup
+- To Test npm install jest and run npm test
+## Authors
+
+👤 **Tendai Nyandoro**
+
+- GitHub: [@Tendai Nyandoro](https://github.com/tnyandoro)
+- Twitter: [@tendainyandoro](https://twitter.com/tendainyandoro)
+- LinkedIn: [Tendai Nyandoro](https://www.linkedin.com/in/tendai-nyandoro/)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/tnyandoro/cryptoapp/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- This project was inspired by the [Microverse](https://www.microverse.org/) for the  program
+- Thanks to [The Rapid API](https://rapidapi.com/)
+- Thanks to [Font Awesome](https://fontawesome.com/)
+- Thanks to [ Adrian Hajdin on JavaScript Mastery](https://github.com/adrianhajdin/) for the original design
+
+
+## 📝 License
+
+MIT License
