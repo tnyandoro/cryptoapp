@@ -3,7 +3,7 @@ import { Switch, Route, Link } from 'react-router-dom';
 import { Layout, Typography, Space } from 'antd';
 
 import {
-  Navbar, Exchanges, Homepage, Cryptocurrencies, News, CryptoDetails,
+  Exchanges, Homepage, News, Cryptocurrencies, CryptoDetails, Navbar,
 } from './components';
 import './App.css';
 
@@ -25,7 +25,7 @@ const App = () => (
             <Route exact path="/cryptocurrencies">
               <Cryptocurrencies />
             </Route>
-            <Route exact path="/crpto/:coinId">
+            <Route exact path="/crypto/:coinId">
               <CryptoDetails />
             </Route>
             <Route exact path="/news">
@@ -36,10 +36,13 @@ const App = () => (
       </Layout>
       <div className="footer">
         <Typography.Title level={5} style={{ color: 'white', textAlign: 'center' }}>
-          Cryptoradical
+          Copyright © 2021
+          <Link to="/">
+            Cryptoverse Inc.
+          </Link>
           {' '}
           <br />
-          All Rights reserved
+          All Rights Reserved.
         </Typography.Title>
         <Space>
           <Link to="/">Home</Link>
